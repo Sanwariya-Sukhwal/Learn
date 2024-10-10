@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name": "Html",
+        "title": "HTML (HyperText Markup Language) is a standard markup language",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/html.jpg"
+    },
+    {
+        "id": 2,
+        "name": "CSS",
+        "title": "CSS (Cascading Style Sheets) is used for styling HTML pages",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/css.jpg"
+    },
+    {
+        "id": 3,
+        "name": "JavaScript",
+        "title": "JavaScript is a powerful scripting language for web development",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/javascript.jpg"
+    },
+    {
+        "id": 4,
+        "name": "C",
+        "title": "C is a foundational programming language in computer science",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/c.jpg"
+    },
+    {
+        "id": 5,
+        "name": "C++",
+        "title": " An object-oriented extension of C used in software and game development",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/c++.jpg"
+    },
+    {
+        "id": 6,
+        "name": "PYTHON",
+        "title": "A versatile, easy-to-read programming language used in web development, data science, and AI.",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/python.jpg"
+    },
+    {
+        "id": 7,
+        "name": "JAVA",
+        "title": "A platform-independent, object-oriented language used in various applications",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/java.jpg"
+    },
+    {
+        "id": 8,
+        "name": "REACT",
+        "title": "A JavaScript library for building user interfaces, especially single-page apps",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/react.jpg"
+    },
+    {
+        "id": 9,
+        "name": "BOOTSTRAP",
+        "title": "A front-end framework for creating responsive web designs quickly",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/bootstrap.jpg"
+    },
+    {
+        "id": 10,
+        "name": "NODEJS",
+        "title": "A JavaScript runtime that allows server-side programming",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/nodejs.jpg"
+    },
+    {
+        "id": 11,
+        "name": "MONDODB",
+        "title": "A NoSQL database for storing data in a flexible, document-oriented format",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/mongodb.jpg"
+    },
+    {
+        "id": 12,
+        "name": "SQL",
+        "title": "A language for managing and querying relational databases",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/sql.jpg"
+    },
+    {
+        "id": 13,
+        "name": "MYSQL",
+        "title": "An open-source relational database management system",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/mysql.jpg"
+    },
+    {
+        "id": 14,
+        "name": "JQUERY",
+        "title": "A JavaScript library that simplifies HTML manipulation and event handling",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/jquery.jpg"
+    },
+    {
+        "id": 15,
+        "name": "ANGULARJS",
+        "title": "A framework for building dynamic single-page web applications",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/angular.jpg"
+    },
+    {
+        "id": 16,
+        "name": "EXCEL",
+        "title": "A spreadsheet tool for data analysis, calculations, and visualization",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/xcel.jpg"
+    },
+    {
+        "id": 17,
+        "name": "PHP ",
+        "title": "A server-side scripting language primarily for web development",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/php.jpg"
+    },
+    {
+        "id": 18,
+        "name": "AI",
+        "title": "Technology that enables machines to mimic human intelligence",
+        "price": 0,
+        "category": "Free",
+        "image": "/images/ai.jpg"
+    }
+    
+]
