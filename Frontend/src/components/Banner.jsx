@@ -10,9 +10,7 @@ function Banner() {
           <span className="text-pink-500">new everyday !!!</span>
         </h1>
         <p className="text-xl" >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna 
-        aliqua.
+        EasyLearn and platforms like Programiz offer free coding courses for all skill levels, covering languages like Python, JavaScript, HTML, and CSS. These courses feature interactive lessons and projects to help learners practice coding skills in a hands-on way. This approach makes it easy and engaging to learn programming effectively.
         </p>
         <label className="input input-bordered flex items-center gap-2">
           <svg
@@ -30,7 +28,7 @@ function Banner() {
        </div>
        <button className="btn mt-6 btn-secondary">Secondary</button>
      </div>
-     <div className="order-1 w-full md:w-1/2">
+     <div className="order-1 w-full md:w-1/2 ml-1 mr-4">
         <img src={banner} className="w-90 h-90" alt=""></img>
      </div>
    </div>

@@ -3,145 +3,160 @@
         "id": 1,
         "name": "Html",
         "title": "HTML (HyperText Markup Language) is a standard markup language",
-        "price": 0,
         "category": "Free",
-        "image": "/images/html.jpg"
+        "image": "/images/html.jpg",
+        "link": "https://books.goalkicker.com/HTML5Book/"
     },
     {
         "id": 2,
         "name": "CSS",
         "title": "CSS (Cascading Style Sheets) is used for styling HTML pages",
-        "price": 0,
         "category": "Free",
-        "image": "/images/css.jpg"
+        "image": "/images/css.jpg",
+        "link": "https://books.goalkicker.com/CSSBook/"
     },
     {
         "id": 3,
         "name": "JavaScript",
         "title": "JavaScript is a powerful scripting language for web development",
-        "price": 0,
         "category": "Free",
-        "image": "/images/javascript.jpg"
+        "image": "/images/javascript.jpg",
+        "link": "https://books.goalkicker.com/JavaScriptBook/"
     },
     {
         "id": 4,
         "name": "C",
         "title": "C is a foundational programming language in computer science",
-        "price": 0,
         "category": "Free",
-        "image": "/images/c.jpg"
+        "image": "/images/c.jpg",
+        "link": "https://books.goalkicker.com/CBook/"
     },
     {
         "id": 5,
         "name": "C++",
-        "title": " An object-oriented extension of C used in software and game development",
-        "price": 0,
+        "title": "An object-oriented extension of C used in software and game development",
         "category": "Free",
-        "image": "/images/c++.jpg"
+        "image": "/images/c++.jpg",
+        "link": "https://books.goalkicker.com/CPlusPlusBook/"
     },
     {
         "id": 6,
-        "name": "PYTHON",
-        "title": "A versatile, easy-to-read programming language used in web development, data science, and AI.",
-        "price": 0,
+        "name": "C#",
+        "title": "An object-oriented extension of C used in software and game development",
         "category": "Free",
-        "image": "/images/python.jpg"
+        "image": "/images/c++.jpg",
+        "link": "https://books.goalkicker.com/CSharpBook/"
     },
     {
         "id": 7,
-        "name": "JAVA",
-        "title": "A platform-independent, object-oriented language used in various applications",
-        "price": 0,
+        "name": "PYTHON",
+        "title": "A versatile, easy-to-read programming language used in web development, data science, and AI.",
         "category": "Free",
-        "image": "/images/java.jpg"
+        "image": "/images/python.jpg",
+        "link": "https://books.goalkicker.com/PythonBook/"
     },
     {
         "id": 8,
-        "name": "REACT",
-        "title": "A JavaScript library for building user interfaces, especially single-page apps",
-        "price": 0,
+        "name": "JAVA",
+        "title": "A platform-independent, object-oriented language used in various applications",
         "category": "Free",
-        "image": "/images/react.jpg"
+        "image": "/images/java.jpg",
+        "link": "https://books.goalkicker.com/JavaBook/"
     },
     {
         "id": 9,
-        "name": "BOOTSTRAP",
-        "title": "A front-end framework for creating responsive web designs quickly",
-        "price": 0,
+        "name": "REACT",
+        "title": "A JavaScript library for building user interfaces, especially single-page apps",
         "category": "Free",
-        "image": "/images/bootstrap.jpg"
+        "image": "/images/react.jpg",
+        "link":"https://books.goalkicker.com/ReactJSBook/"
     },
     {
         "id": 10,
-        "name": "NODEJS",
-        "title": "A JavaScript runtime that allows server-side programming",
-        "price": 0,
+        "name": "BOOTSTRAP",
+        "title": "A front-end framework for creating responsive web designs quickly",
         "category": "Free",
-        "image": "/images/nodejs.jpg"
+        "image": "/images/bootstrap.jpg",
+        "link": "https://books.goalkicker.com/KotlinBook/"
     },
     {
         "id": 11,
-        "name": "MONDODB",
-        "title": "A NoSQL database for storing data in a flexible, document-oriented format",
-        "price": 0,
+        "name": "NODEJS",
+        "title": "A JavaScript runtime that allows server-side programming",
         "category": "Free",
-        "image": "/images/mongodb.jpg"
+        "image": "/images/nodejs.jpg",
+        "link": "https://books.goalkicker.com/NodeJSBook/"
     },
     {
         "id": 12,
-        "name": "SQL",
-        "title": "A language for managing and querying relational databases",
-        "price": 0,
+        "name": "MONGODB",
+        "title": "A NoSQL database for storing data in a flexible, document-oriented format",
         "category": "Free",
-        "image": "/images/sql.jpg"
+        "image": "/images/mongodb.jpg",
+        "link": "https://books.goalkicker.com/MongoDBBook/"
     },
     {
         "id": 13,
-        "name": "MYSQL",
-        "title": "An open-source relational database management system",
-        "price": 0,
+        "name": "SQL",
+        "title": "A language for managing and querying relational databases",
         "category": "Free",
-        "image": "/images/mysql.jpg"
+        "image": "/images/sql.jpg",
+        "link": "https://books.goalkicker.com/SQLBook/"
     },
     {
         "id": 14,
-        "name": "JQUERY",
-        "title": "A JavaScript library that simplifies HTML manipulation and event handling",
-        "price": 0,
+        "name": "MYSQL",
+        "title": "An open-source relational database management system",
         "category": "Free",
-        "image": "/images/jquery.jpg"
+        "image": "/images/mysql.jpg",
+        "link": "https://books.goalkicker.com/MySQLBook/"
     },
     {
         "id": 15,
-        "name": "ANGULARJS",
-        "title": "A framework for building dynamic single-page web applications",
-        "price": 0,
+        "name": "JQUERY",
+        "title": "A JavaScript library that simplifies HTML manipulation and event handling",
         "category": "Free",
-        "image": "/images/angular.jpg"
+        "image": "/images/jquery.jpg",
+        "link": "https://books.goalkicker.com/jQueryBook/"
     },
     {
         "id": 16,
-        "name": "EXCEL",
-        "title": "A spreadsheet tool for data analysis, calculations, and visualization",
-        "price": 0,
+        "name": "ANGULARJS",
+        "title": "A framework for building dynamic single-page web applications",
         "category": "Free",
-        "image": "/images/xcel.jpg"
+        "image": "/images/angular.jpg",
+        "link": "https://books.goalkicker.com/AngularJSBook/"
     },
     {
         "id": 17,
-        "name": "PHP ",
-        "title": "A server-side scripting language primarily for web development",
-        "price": 0,
+        "name": "EXCEL",
+        "title": "A spreadsheet tool for data analysis, calculations, and visualization",
         "category": "Free",
-        "image": "/images/php.jpg"
+        "image": "/images/xcel.jpg",
+        "link": "https://books.goalkicker.com/ExcelVBABook/"
     },
     {
         "id": 18,
-        "name": "AI",
-        "title": "Technology that enables machines to mimic human intelligence",
-        "price": 0,
+        "name": "PHP",
+        "title": "A server-side scripting language primarily for web development",
         "category": "Free",
-        "image": "/images/ai.jpg"
+        "image": "/images/php.jpg",
+        "link": "https://books.goalkicker.com/PHPBook/"
+    },
+    {
+        "id": 19,
+        "name": "Kotlin",
+        "title": "A server-side scripting language primarily for web development",
+        "category": "Free",
+        "image": "/images/php.jpg",
+        "link": "https://books.goalkicker.com/KotlinBook/"
+    },
+    {
+        "id": 20,
+        "name": "Git",
+        "title": "Technology that enables machines to mimic human intelligence",
+        "category": "Free",
+        "image": "/images/ai.jpg",
+        "link": "https://books.goalkicker.com/GitBook/"
     }
-    
 ]
