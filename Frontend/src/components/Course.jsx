@@ -13,7 +13,7 @@ function Course() {
     useEffect(() => {
       const getBook = async () => {
         try {
-          const res = await axios.get("http://localhost:4001/book");
+          const res = await axios.get("https://easy-learn-backend-3a7k.onrender.com/book");
           console.log(res.data);
           setBook(res.data);
         } catch (error) {

@@ -1,7 +1,3 @@
-// // import React from 'react'
-// // import Cards from "./Cards";
-// // import list from "../../public/list.json";
-
 // // function Cards({ item }) {
 
   
@@ -139,6 +135,9 @@
 // }
 
 // export default Cards;
+
+
+
 function Cards({ item }) {
   return (
     <div className="mt-4 my-4 p-2">
